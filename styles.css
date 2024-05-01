@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+#app{
+	/* display: inline-block; */
+	
+}
+#smaller-mins ,#medium-mins, #long-mins{
+	/* margin-top: 30px; */
+	display: flex;
+	justify-content: left;
+	margin-bottom: 5rem;
+	padding: 8px;
+	border-radius: 3px;
+	width: 6rem;
+}
+
